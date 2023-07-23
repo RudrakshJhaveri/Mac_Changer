@@ -13,7 +13,7 @@ Mac Changer is a command-line tool designed to modify the Media Access Control (
 Make sure you have Python 3.6+ installed, then run the following command:
 
 ```bash
-pip install mac-changer
+git clone https://github.com/RudrakshJhaveri/Mac_Changer.git
 
 Usage: mac-changer [options] interface
 
