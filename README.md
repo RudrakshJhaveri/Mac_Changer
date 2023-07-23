@@ -16,4 +16,4 @@ Step 1: Clone the Repository
 ```bash
 git clone https://github.com/RudrakshJhaveri/Mac_Changer.git
 
-Step 2: Navigate to the Project Directory
+#### Step 2: Navigate to the Project Directory
