@@ -8,11 +8,9 @@ Mac Changer is a command-line tool designed to modify the Media Access Control (
 - Simple syntax and intuitive command-line interface.
 - Built-in error handling and validation to prevent accidental misuse.
 
-Make sure you have Python 3.6+ installed, then run the following command:
-
 ## Getting Started
 
-To get started with **[Your Project Name]**, follow the steps below:
+Make sure you have Python 3.6+ installed, then run the following command:
 
 Step 1: Clone the Repository
 ```bash
