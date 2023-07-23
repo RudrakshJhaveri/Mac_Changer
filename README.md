@@ -12,13 +12,12 @@ Mac Changer is a command-line tool designed to modify the Media Access Control (
 
 Make sure you have Python 3.6+ installed, then run the following command:
 
+## Getting Started
+
+To get started with **[Your Project Name]**, follow the steps below:
+
+Step 1: Clone the Repository
 ```bash
 git clone https://github.com/RudrakshJhaveri/Mac_Changer.git
 
-Usage: mac-changer [options] interface
-
-Options:
-  --mac, -m    Specify a custom MAC address to set.
-  --random, -r Generate and set a random MAC address.
-  --reset, -s  Reset the MAC address to the original value.
-  --help, -h   Show this help message and exit.
+###
