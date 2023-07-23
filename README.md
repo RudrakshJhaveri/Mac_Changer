@@ -20,7 +20,12 @@ Step 2: Navigate to the Project Directory
 ```
 cd Mac_Changer
 ```
-Step 3: Run the Python Program
+Step 3: Check Interface Name
+To change the MAC address of a specific network interface, you first need to know its name. Open a terminal and run the following command to display the network interfaces and their names:
+```
+ifconfig
+```
+Step 4: Run the Python Program
 ```
 python3 mac_changer.py -i <interface_name> -m <enter_new_Mac_address>
 ```
