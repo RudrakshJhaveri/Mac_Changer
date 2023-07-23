@@ -39,5 +39,4 @@ To get more information about how to use the project, run it with the --help opt
 ```
 sudo python3 Mac_Changer.py --help
 ```
-![Screenshot from 2023-07-23 11-12-01](https://github.com/RudrakshJhaveri/Mac_Changer/assets/140316405/990d7c09-e2bf-4c1e-ba81-b49dbd880053)
-
+![image](https://github.com/RudrakshJhaveri/Mac_Changer/assets/140316405/7dec3fda-7339-4faf-a6e8-0a13d3fed97f)
