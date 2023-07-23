@@ -39,3 +39,11 @@ To get more information about how to use the project, run it with the --help opt
 ```
 python3 Mac_Changer.py --help
 ```
+Usage: Mac_Changer.py [options]
+
+Options:
+  -h, --help &nbsp;&nbsp;&nbsp;&nbsp;                                                                  show this help message and exit
+  -i INTERFACE, --i=INTERFACE, --interface=INTERFACE
+                        Interface To Change Mac Address.
+  -m NEW_MAC, --m=NEW_MAC, --mac=NEW_MAC
+                        New Mac Address.
