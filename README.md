@@ -27,7 +27,7 @@ ifconfig
 ```
 Step 4: Run the Python Program
 ```
-python3 mac_changer.py -i <interface_name> -m <enter_new_Mac_address>
+python3 mac_changer.py -i <interface_name> -m <new_Mac_address>
 ```
-Replace your_interface_name with the actual name of the network interface you obtained from the ifconfig command, and new_mac_address with the MAC address you want to set.
+Replace your<interface_name> with the actual name of the network interface you obtained from the ifconfig command, and <new_Mac_address> with the MAC address you want to set.
 
