@@ -39,3 +39,5 @@ To get more information about how to use the project, run it with the --help opt
 sudo python3 Mac_Changer.py --help
 ```
 ![image](https://github.com/RudrakshJhaveri/Mac_Changer/assets/140316405/7dec3fda-7339-4faf-a6e8-0a13d3fed97f)
+
+### By default, the Mac address changes are temporary and will revert to the original address after you shut down or restart your system. The changes made by the script are not permanent.
