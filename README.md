@@ -15,5 +15,5 @@ Make sure you have Python 3.6+ installed, then run the following command:
 Step 1: Clone the Repository
 ```bash
 git clone https://github.com/RudrakshJhaveri/Mac_Changer.git
-```bash
-Step 1: Clone the Repository
+
+Step 2: Navigate to the Project Directory
