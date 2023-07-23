@@ -30,12 +30,12 @@ ifconfig
 Step 4: Run the Python Program
 Replace your <interface_name> with the actual name of the network interface you obtained from the ifconfig command, and <new_Mac_address> with the MAC address you want to set.
 ```
-python3 Mac_Changer.py -i <interface_name> -m <new_Mac_address>
+sudo python3 Mac_Changer.py -i <interface_name> -m <new_Mac_address>
 ```
 
 Step 5: Run the Project with --help
 
 To get more information about how to use the project, run it with the --help options:
 ```
-python3 Mac_Changer.py --help
+sudo python3 Mac_Changer.py --help
 ```
