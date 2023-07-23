@@ -25,7 +25,7 @@ To change the MAC address of a specific network interface, you first need to kno
 ```
 ifconfig
 ```
-![alt text](file:///home/Rudraksh/Image.png)
+![alt text](http://home/Rudraksh/Image.png)
 Step 4: Run the Python Program
 ```
 python3 mac_changer.py -i <interface_name> -m <new_Mac_address>
