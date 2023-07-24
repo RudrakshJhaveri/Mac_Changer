@@ -1,4 +1,4 @@
-# Mac_Changer For Linux
+# Mac_Changer
 Mac Changer is a command-line tool designed to modify the Media Access Control (MAC) address of network interfaces. It provides a simple and convenient way to enhance privacy, security, and network troubleshooting.
 
 ## Feature
@@ -8,7 +8,7 @@ Mac Changer is a command-line tool designed to modify the Media Access Control (
 - Simple syntax and intuitive command-line interface.
 - Built-in error handling and validation to prevent accidental misuse.
 
-## Getting Started (This Python program work only in Linux Machine.)
+## Getting Started (This Python program work only in Linux & Apple Machine.)
 
 Make sure you have Python 3.6+ installed, then run the following command:
 Step 1: Clone the Repository
