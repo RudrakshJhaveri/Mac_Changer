@@ -23,7 +23,6 @@ def change_mac(interface, new_mac):
 
 def get_current_mac(interface):
     ifconfig_result = subprocess.check_output(["ifconfig", interface])
-    # Convert bytes to string
     ifconfig_result = ifconfig_result.decode("utf-8")
     current_mac = re.search(r"\w\w:\w\w:\w\w:\w\w:\w\w:\w\w", ifconfig_result)
     if current_mac:
